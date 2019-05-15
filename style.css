@@ -1,0 +1,55 @@
+.headerlist li {
+	display: inline;
+	padding-right: 50px;
+}
+
+.toplist li {
+	display: inline;
+	padding-right: 50px;
+	padding-top: 10px;
+}
+
+hr {
+	color: black;
+}
+
+.freeshipping p {
+	font-size: 19px;
+	padding-left: 340px;
+}
+
+.nikeplus p {
+	padding-right: 525px;
+}
+
+.splash {
+	background-color: #E5E7E9;
+}
+
+.line {
+	padding-bottom: 2000px;
+}
+
+.img {
+
+}
+
+a {
+	color: black;
+}
+
+.mens h2 {
+	font-size: 19px;
+}
+
+.cny h2 {
+	font-size: 30px;
+}
+
+.policy h2 {
+	font-size: 20px;
+}
+
+.alsolike h2 {
+	font-size: 12px;
+}
